@@ -1,4 +1,4 @@
-# rofi-bookmarks
+# rofi-firefox-bookmarks
 
 Search and open Firefox bookmarks with `rofi`.
 
